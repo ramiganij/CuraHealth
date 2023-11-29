@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="project 3">
+<test name="curahealth">
+<classes>
+<class name="curatestNG.Login"/>
+<class name="curatestNG.History"/>
+<class name="curatestNG.Logout"/>
+<class name="curatestNG.MakeAppointment"/>
+<class name="curatestNG.AppointmentBeforeLogin"/>
+<class name="curatestNG.Profile"/>
+
+</classes>
+</test>
+</suite>
